@@ -52,3 +52,4 @@ jobs:
           external_repository: ngAtUbo/Cours_IMQ_binder
           publish_branch: gh-pages
 # rebuild triggered manually
+# 2 rebuild triggered manually
