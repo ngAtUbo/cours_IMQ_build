@@ -18,6 +18,7 @@ jobs:
           repository: ngAtUbo/cours_IMQ_Prive
           ref: main
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
